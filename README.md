@@ -1,4 +1,8 @@
-````markdown
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Desktop-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 # 📱 APP Development Lab Project
 
 A **Java-based desktop application** developed as part of the **APP Development Lab curriculum**.  
@@ -108,7 +112,7 @@ The application is intuitive and easy to operate for beginners.
 Feel free to connect with me for suggestions, collaboration, or queries:
 
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/shubhrat-chaursiya](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
-* 📧 **Email:** [shubhratchaursiya2005@gmail.com](mailto:shubhratchaursiya2005@gmail.com)
+* 📧 **Email:** [shubhrat.chaursiya@gmail.com](mailto:shubhratchaursiya2005@gmail.com)
 
 ---
 
